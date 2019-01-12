@@ -6,17 +6,17 @@ using namespace std;
  
 int main() {
  
-    double PI = 3.14159; //INICIANDO A VARI¡VEL p 
-    double raio, area; //DECLARA«√O DAS VARI¡VEIS RAIO E AREA
+    double PI = 3.14159; //INICIANDO A VARI√ÅVEL p 
+    double raio, area; //DECLARA√á√ÉO DAS VARI√ÅVEIS RAIO E AREA
     
     cin >> raio; //ATRIBUINDO VALORES PARA O RAIO
     
-    area = PI*pow(raio, 2.0); //CALCULANDO A ¡REA DA CIRCUFER NCIA: area = p * raio≤
+    area = PI*pow(raio, 2.0); //CALCULANDO A √ÅREA DA CIRCUFER√äNCIA: area = p * raio¬≤
     
     cout << fixed << setprecision(4);
-    cout << "A=" << area <<endl; //IMPRIMINDO EM TELA O VALOR DA ¡REA 
+    cout << "A=" << area <<endl; //IMPRIMINDO EM TELA O VALOR DA √ÅREA 
  
     return 0;
 }
 
-//EXERCÕCIO DO 'URI - ONLINE JUDGE', PROBLEMA N⁄MERO: 1002
+//EXERC√çCIO DO 'URI - ONLINE JUDGE', PROBLEMA N√öMERO: 1002

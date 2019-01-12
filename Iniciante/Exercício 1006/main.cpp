@@ -20,3 +20,5 @@ int main() {
  
     return 0;
 }
+
+//EXERCÍCIO DO 'URI - ONLINE JUDGE', PROBLEMA NÚMERO: 1006

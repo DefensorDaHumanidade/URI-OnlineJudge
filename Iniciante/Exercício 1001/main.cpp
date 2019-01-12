@@ -4,12 +4,12 @@ using namespace std;
  
 int main() {
     
-    short int A, B, X; //DECLARA«√O DAS VARI¡VEIS A, B, X
+    short int A, B, X; //DECLARA√á√ÉO DAS VARI√ÅVEIS A, B, X
     
     cin >> A; //ATRIBUINDO VALORES PARA A
     cin >> B; //ATRIBUINDO VALORES PARA B
     
-    X = A+B; //CARREGANDO A SOMA DE A+B NA VARI¡VEL X
+    X = A+B; //CARREGANDO A SOMA DE A+B NA VARI√ÅVEL X
     
     cout << "X = " << X <<endl; //IMPRIMINDO EM TELA O VALOR DE X
  
@@ -17,4 +17,4 @@ int main() {
 }
 
 
-//PRIMEIRO EXERCÕCIO DO 'URI - ONLINE JUDGE', PROBLEMA N⁄MERO: 1001
+//EXERC√çCIO DO 'URI - ONLINE JUDGE', PROBLEMA N√öMERO: 1001
