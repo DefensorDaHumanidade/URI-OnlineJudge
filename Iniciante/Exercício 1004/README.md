@@ -2,15 +2,15 @@
 # Produto Simples
 Adaptado por Neilor Tonin, URI ![][2] Brasil
 ***
-Leia dois valores inteiros. A seguir, calcule o produto entre estes dois valores e atribua esta operaÁ„o ‡ vari·vel **PROD**. A seguir mostre a vari·vel **PROD** com mensagem correspondente.
+Leia dois valores inteiros. A seguir, calcule o produto entre estes dois valores e atribua esta opera√ß√£o √† vari√°vel **PROD**. A seguir mostre a vari√°vel **PROD** com mensagem correspondente.
 ***
 #### Entrada
-O arquivo de entrada contÈm 2 valores inteiros.
+O arquivo de entrada cont√©m 2 valores inteiros.
 ***
-#### SaÌda
-Imprima a vari·vel **PROD** conforme exemplo abaixo, com um espaÁo em branco antes e depois da igualdade. N„o esqueÁa de imprimir o fim de linha apÛs o produto, caso contr·rio seu programa apresentar· a mensagem: _ìPresentation Errorî_.
+#### Sa√≠da
+Imprima a vari√°vel **PROD** conforme exemplo abaixo, com um espa√ßo em branco antes e depois da igualdade. N√£o esque√ßa de imprimir o fim de linha ap√≥s o produto, caso contr√°rio seu programa apresentar√° a mensagem: _"Presentation Error"_.
 
-| Exemplos de Entrada                     | Exemplos de SaÌda                     |  
+| Exemplos de Entrada                     | Exemplos de Sa√≠da                     |  
 | :-                                      | :-                                    |  
 | 3 <br> 9                                | PROD = 27                             | 
 | -30 <br> 10                             | PROD = -300                           | 

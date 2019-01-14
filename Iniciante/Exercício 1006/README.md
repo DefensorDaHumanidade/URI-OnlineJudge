@@ -1,16 +1,16 @@
 ###### [URI Online Judge | 1006][1]
-# MÈdia 2
+# M√©dia 2
 Adaptado por Neilor Tonin, URI ![][2] Brasil
 ***
-Leia 3 valores, no caso, vari·veis A, B e C, que s„o as trÍs notas de um aluno. A seguir, calcule a mÈdia do aluno, sabendo que a nota A tem peso 2, a nota B tem peso 3 e a nota C tem peso 5. Considere que cada nota pode ir de 0 atÈ 10.0, sempre com uma casa decimal.
+Leia 3 valores, no caso, vari√°veis A, B e C, que s√£o as tr√™s notas de um aluno. A seguir, calcule a m√©dia do aluno, sabendo que a nota A tem peso 2, a nota B tem peso 3 e a nota C tem peso 5. Considere que cada nota pode ir de 0 at√© 10.0, sempre com uma casa decimal.
 ***
 #### Entrada
-O arquivo de entrada contÈm 3 valores com uma casa decimal, de dupla precis„o (double).
+O arquivo de entrada cont√©m 3 valores com uma casa decimal, de dupla precis√£o (double).
 ***
-#### SaÌda
-Imprima a vari·vel **MEDIA** conforme exemplo abaixo, com 1 dÌgito apÛs o ponto decimal e com um espaÁo em branco antes e depois da igualdade. Assim como todos os problemas, n„o esqueÁa de imprimir o fim de linha apÛs o resultado, caso contr·rio, vocÍ receber· "Presentation Error".
+#### Sa√≠da
+Imprima a vari√°vel **MEDIA** conforme exemplo abaixo, com 1 d√≠gito ap√≥s o ponto decimal e com um espa√ßo em branco antes e depois da igualdade. Assim como todos os problemas, n√£o esque√ßa de imprimir o fim de linha ap√≥s o resultado, caso contr√°rio, voc√™ receber√° "Presentation Error".
 
-| Exemplos de Entrada                     | Exemplos de SaÌda                     |  
+| Exemplos de Entrada                     | Exemplos de Sa√≠da                     |  
 | :-                                      | :-                                    |  
 | 5.0 <br> 6.0 <br> 7.0                   | MEDIA = 6.3                           | 
 | 5.0 <br> 10.0 <br> 10.0                 | MEDIA = 9.0                           | 
