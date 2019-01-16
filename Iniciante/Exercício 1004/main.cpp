@@ -4,16 +4,16 @@ using namespace std;
  
 int main() {
  
-    short int A, B, PROD; //DECLARAÇÃO DAS VARIÁVEIS A, B, PROD
+	short int A, B, PROD; //DECLARAÇÃO DAS VARIÁVEIS A, B, PROD
     
-    cin >> A; //ATRIBUINDO VALORES PARA A
-    cin >> B; //ATRIBUINDO VALORES PARA B
+	cin >> A; //ATRIBUINDO VALORES PARA A
+	cin >> B; //ATRIBUINDO VALORES PARA B
     
-    PROD = A*B; //CARREGANDO O PRODUTO DE A*B NA VARIÁVEL PROD
+	PROD = A*B; //CARREGANDO O PRODUTO DE A*B NA VARIÁVEL PROD
     
-    cout << "PROD = " << PROD <<endl; //IMPRIMINDO EM TELA O VALOR DE PROD
+	cout << "PROD = " << PROD <<endl; //IMPRIMINDO EM TELA O VALOR DE PROD
  
-    return 0;
+	return 0;
 }
 
 //EXERCÍCIO DO 'URI - ONLINE JUDGE', PROBLEMA NÚMERO: 1004
