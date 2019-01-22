@@ -5,7 +5,7 @@
 using namespace std;
 
 int main(){
- 
+
 	double PI = 3.14159; 	//INICIANDO A VARIÁVEL π 
 	double A, B, C;			//DECLARAÇÃO DAS VARIÁVEIS A, B, C
 
