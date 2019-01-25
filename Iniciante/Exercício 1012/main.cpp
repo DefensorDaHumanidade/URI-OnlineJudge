@@ -1,4 +1,4 @@
-#include <iostream>
+﻿#include <iostream>
 #include <iomanip> //BIBLIOTECA DO 'setprecision'
 #include <math.h>  //BIBLIOTECA DA 'pow'
 
@@ -6,8 +6,8 @@ using namespace std;
 
 int main(){
 
-	double PI = 3.14159; 	//INICIANDO A VARIÁVEL π 
-	double A, B, C;			//DECLARAÇÃO DAS VARIÁVEIS A, B, C
+	double PI = 3.14159;	//INICIANDO A VARIÁVEL π 
+	double A, B, C;		//DECLARAÇÃO DAS VARIÁVEIS A, B, C
 
 	cin >> A >> B >> C; //ATRIBUINDO VALORES PARA AS VARIÁVEIS DECLARADAS
 
