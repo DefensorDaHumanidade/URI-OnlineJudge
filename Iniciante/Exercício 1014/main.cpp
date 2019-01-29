@@ -1,12 +1,12 @@
-#include <iostream>
+﻿#include <iostream>
 #include <iomanip> //BIBLIOTECA DO 'setprecision'
 
 using namespace std;
 
 int main(){
 
-	short int X; 	//X = a distância total percorrida em quilômetros
-	double Y;		//Y = total de combustível gasto
+	short int X;	//X = a distância total percorrida em quilômetros
+	double Y;	//Y = total de combustível gasto
 
 	cin >> X >> Y;	//ATRIBUINDO VALORES PARA AS VARIÁVEIS DECLARADAS
 
