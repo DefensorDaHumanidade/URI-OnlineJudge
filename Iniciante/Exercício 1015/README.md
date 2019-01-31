@@ -20,5 +20,5 @@ Calcule e imprima o valor da distância segundo a fórmula fornecida, com 4 casa
 
 
 [1]: https://www.urionlinejudge.com.br/judge/pt/problems/view/1015
-[2]: https://urionlinejudge.r.worldssl.net/gallery/images/flags/br.gif
-[3]: https://urionlinejudge.r.worldssl.net/gallery/images/problems/UOJ_1015.png
+[2]: https://resources.urionlinejudge.com.br/gallery/images/flags/br.gif
+[3]: https://resources.urionlinejudge.com.br/gallery/images/problems/UOJ_1015.png
