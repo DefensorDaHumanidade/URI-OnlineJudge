@@ -19,5 +19,5 @@ Imprima o maior dos três valores seguido por um espaço e a mensagem "eh o maio
 
 
 [1]: https://www.urionlinejudge.com.br/judge/pt/problems/view/1013
-[2]: https://urionlinejudge.r.worldssl.net/gallery/images/flags/br.gif
-[3]: https://urionlinejudge.r.worldssl.net/gallery/images/problems/UOJ_1013.png
+[2]: https://resources.urionlinejudge.com.br/gallery/images/flags/br.gif
+[3]: https://resources.urionlinejudge.com.br/gallery/images/problems/UOJ_1013.png
