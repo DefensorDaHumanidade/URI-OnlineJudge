@@ -18,4 +18,4 @@ Imprima o tempo lido no arquivo de entrada (segundos), convertido para horas:min
 
 
 [1]: https://www.urionlinejudge.com.br/judge/pt/problems/view/1019
-[2]: https://urionlinejudge.r.worldssl.net/gallery/images/flags/br.gif
+[2]: https://resources.urionlinejudge.com.br/gallery/images/flags/br.gif
