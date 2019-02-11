@@ -18,4 +18,4 @@ Imprima o valor lido e, em seguida, a quantidade mínima de notas de cada tipo n
 
 
 [1]: https://www.urionlinejudge.com.br/judge/pt/problems/view/1018
-[2]: https://urionlinejudge.r.worldssl.net/gallery/images/flags/br.gif
+[2]: https://resources.urionlinejudge.com.br/gallery/images/flags/br.gif
