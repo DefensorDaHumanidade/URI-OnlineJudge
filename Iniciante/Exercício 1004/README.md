@@ -17,4 +17,4 @@ Imprima a variável **PROD** conforme exemplo abaixo, com um espaço em branco a
 | 0 <br> 9                                | PROD = 0                              | 
 
 [1]: https://www.urionlinejudge.com.br/judge/pt/problems/view/1004
-[2]: https://urionlinejudge.r.worldssl.net/gallery/images/flags/br.gif
+[2]: https://resources.urionlinejudge.com.br/gallery/images/flags/br.gif
