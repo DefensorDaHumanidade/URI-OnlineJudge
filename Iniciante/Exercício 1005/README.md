@@ -17,4 +17,4 @@ Calcule e imprima a variável **MEDIA** conforme exemplo abaixo, com 5 dígitos 
 | 10.0 <br> 10.0                          | MEDIA = 10.0000                       | 
 
 [1]: https://www.urionlinejudge.com.br/judge/pt/problems/view/1005
-[2]: https://urionlinejudge.r.worldssl.net/gallery/images/flags/br.gif
+[2]: https://resources.urionlinejudge.com.br/gallery/images/flags/br.gif
