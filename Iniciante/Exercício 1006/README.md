@@ -17,4 +17,4 @@ Imprima a variável **MEDIA** conforme exemplo abaixo, com 1 dígito após o pon
 | 10.0 <br> 10.0 <br> 5.0                 | MEDIA = 7.5                           | 
 
 [1]: https://www.urionlinejudge.com.br/judge/pt/problems/view/1006
-[2]: https://urionlinejudge.r.worldssl.net/gallery/images/flags/br.gif
+[2]: https://resources.urionlinejudge.com.br/gallery/images/flags/br.gif
