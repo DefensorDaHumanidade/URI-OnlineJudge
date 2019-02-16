@@ -17,4 +17,4 @@ Imprima a mensagem **DIFERENCA** com todas as letras maiúsculas, conforme exemp
 | 5 <br> 6 <br> -7 <br> 8                 | DIFERENCA = 86                        | 
 
 [1]: https://www.urionlinejudge.com.br/judge/pt/problems/view/1007
-[2]: https://urionlinejudge.r.worldssl.net/gallery/images/flags/br.gif
+[2]: https://resources.urionlinejudge.com.br/gallery/images/flags/br.gif
