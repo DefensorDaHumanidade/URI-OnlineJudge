@@ -17,4 +17,4 @@ Imprima o número e o salário do funcionário, conforme exemplo fornecido, com 
 | 6 <br> 145 <br> 15.55                   | NUMBER = 6 <br> SALARY = U$ 2254.75   | 
 
 [1]: https://www.urionlinejudge.com.br/judge/pt/problems/view/1008
-[2]: https://urionlinejudge.r.worldssl.net/gallery/images/flags/br.gif
+[2]: https://resources.urionlinejudge.com.br/gallery/images/flags/br.gif
