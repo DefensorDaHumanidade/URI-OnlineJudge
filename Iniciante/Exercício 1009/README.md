@@ -17,4 +17,4 @@ Imprima o total que o funcionário deverá receber, conforme exemplo fornecido.
 | MANGOJATA <br> 1700.00 <br> 1230.50     | TOTAL = R$ 1884.58                    | 
 
 [1]: https://www.urionlinejudge.com.br/judge/pt/problems/view/1009
-[2]: https://urionlinejudge.r.worldssl.net/gallery/images/flags/br.gif
+[2]: https://resources.urionlinejudge.com.br/gallery/images/flags/br.gif
