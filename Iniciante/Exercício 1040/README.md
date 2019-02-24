@@ -19,6 +19,6 @@ Todas as respostas devem ser apresentadas com uma casa decimal. As mensagens dev
 | .0 4.0 8.5 9.0                  | TMedia: 7.3 <br> Aluno aprovado.                                                                               |
 
 
-[1]: https://www.urionlinejudge.com.br/judge/pt/problems/view/1038
+[1]: https://www.urionlinejudge.com.br/judge/pt/problems/view/1040
 [2]: https://resources.urionlinejudge.com.br/gallery/images/flags/br.gif
 [3]: https://resources.urionlinejudge.com.br/gallery/images/problems/UOJ_1038_pt.png
