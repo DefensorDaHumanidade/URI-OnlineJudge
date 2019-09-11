@@ -1,5 +1,5 @@
 ###### [URI Online Judge | 1047][1]
-# Tipos de Triângulos
+# Tempo de Jogo com Minutos
 Adaptado por Neilor Tonin, URI ![][2] Brasil
 ***
 Leia a hora inicial, MinutoInicialnuto inicial, hora final e MinutoInicialnuto final de um jogo. A seguir calcule a duração do jogo.
