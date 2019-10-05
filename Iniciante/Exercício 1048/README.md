@@ -1,5 +1,5 @@
 ###### [URI Online Judge | 1048][1]
-# Aumento de Salário
+# Aumento do Salário
 Adaptado por Neilor Tonin, URI ![][2] Brasil
 ***
 A empresa ABC resolveu conceder um aumento de salários a seus funcionários de acordo com a tabela abaixo:
