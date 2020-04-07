@@ -3,7 +3,7 @@
 Adaptado por Neilor Tonin, URI ![][2] Brasil
 ***
 A empresa ABC resolveu conceder um aumento de salários a seus funcionários de acordo com a tabela abaixo:
-  
+
 | Salário           | Percentual de Reajuste      |
 | :-                | :-                          |
 | 0 - 400.00        | 15%                         |
