@@ -25,6 +25,6 @@ Imprima 3 linhas na saída: o novo salário, o valor ganho de reajuste e o perce
 | 400.00                          | Novo salario: 460.00 <br> Reajuste ganho: 60.00 <br> Em percentual: 15 %           |
 | 800.01                          | Novo salario: 880.01 <br> Reajuste ganho: 80.00 <br> Em percentual: 10 %           |
 | 2000.00                         | Novo salario: 2140.00 <br> Reajuste ganho: 140.00 <br> Em percentual: 7 %          |
-  
+ 
 [1]: https://www.urionlinejudge.com.br/judge/pt/problems/view/1048
 [2]: https://resources.urionlinejudge.com.br/gallery/images/flags/br.gif
