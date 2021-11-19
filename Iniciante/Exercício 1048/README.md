@@ -19,7 +19,7 @@ A entrada contém apenas um valor de ponto flutuante, com duas casas decimais.
 ***
 #### Saída
 Imprima 3 linhas na saída: o novo salário, o valor ganho de reajuste e o percentual de reajuste ganho, conforme exemplo abaixo.
- 
+
 | Exemplos de Entrada             | Exemplos de Saída                                                                  |
 | :-                              | :-                                                                                 |
 | 400.00                          | Novo salario: 460.00 <br> Reajuste ganho: 60.00 <br> Em percentual: 15 %           |
